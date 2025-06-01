@@ -1,6 +1,6 @@
 - [Thread](./MultithreadingInJava/CoreConcepts/Thread.md) – ✅ Done
 - [Runnable](./MultithreadingInJava/CoreConcepts/Runnable.md) – ✅ Done
-- [Synchronization](./MultithreadingInJava/CoreConcepts/Synchronization.md) – TODO
+- [Synchronization](./MultithreadingInJava/CoreConcepts/Synchronization.md) – ✅ Done
 - [ThreadPools](./MultithreadingInJava/Advanced/ThreadPools.md) – TODO
 - [ConcurrencyUtils](./MultithreadingInJava/Advanced/ConcurrencyUtils.md) – TODO
 - [Deadlocks](./MultithreadingInJava/Pitfalls/Deadlocks.md) – TODO
@@ -17,3 +17,11 @@
 - [ThreadYield](./MultithreadingInJava/CoreConcepts/ThreadYield.md) – TODO
 - [FunctionalInterfaceNature](./MultithreadingInJava/CoreConcepts/FunctionalInterfaceNature.md) – TODO
 - [CallableInterface](./MultithreadingInJava/Advanced/CallableInterface.md) – TODO
+- [SynchronizedMethods](./MultithreadingInJava/CoreConcepts/SynchronizationMechanisms/SynchronizedMethods.md) – TODO
+- [SynchronizedBlocks](./MultithreadingInJava/CoreConcepts/SynchronizationMechanisms/SynchronizedBlocks.md) – TODO
+- [IntrinsicLocks](./MultithreadingInJava/CoreConcepts/SynchronizationMechanisms/IntrinsicLocks.md) – TODO
+- [ClassLocksVsObjectLocks](./MultithreadingInJava/CoreConcepts/SynchronizationMechanisms/ClassLocksVsObjectLocks.md) – TODO
+- [ReentrantLock](./MultithreadingInJava/Advanced/Locks/ReentrantLock.md) – TODO
+- [ReadWriteLock](./MultithreadingInJava/Advanced/Locks/ReadWriteLock.md) – TODO
+- [ConditionObjects](./MultithreadingInJava/Advanced/Locks/ConditionObjects.md) – TODO
+- [FairnessInLocks](./MultithreadingInJava/Advanced/Locks/Fairness.md) – TODO
