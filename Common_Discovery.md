@@ -1,4 +1,4 @@
-- [Thread](./MultithreadingInJava/CoreConcepts/Thread.md) – TODO
+- [Thread](./MultithreadingInJava/CoreConcepts/Thread.md) – ✅ Done
 - [Runnable](./MultithreadingInJava/CoreConcepts/Runnable.md) – TODO
 - [Synchronization](./MultithreadingInJava/CoreConcepts/Synchronization.md) – TODO
 - [ThreadPools](./MultithreadingInJava/Advanced/ThreadPools.md) – TODO
@@ -7,3 +7,11 @@
 - [ThreadSafety](./MultithreadingInJava/BestPractices/ThreadSafety.md) – TODO
 - [VolatileKeyword](./MultithreadingInJava/CoreConcepts/VolatileKeyword.md) – TODO
 - [AtomicOperations](./MultithreadingInJava/Advanced/AtomicOperations.md) – TODO
+- [ThreadStates](./MultithreadingInJava/ThreadConcepts/ThreadStates.md) – TODO
+- [ThreadPriority](./MultithreadingInJava/ThreadConcepts/ThreadPriority.md) – TODO
+- [DaemonThreads](./MultithreadingInJava/ThreadConcepts/DaemonThreads.md) – TODO
+- [ThreadInterruption](./MultithreadingInJava/ThreadConcepts/ThreadInterruption.md) – TODO
+- [ThreadGroups](./MultithreadingInJava/ThreadConcepts/ThreadGroups.md) – TODO
+- [ThreadJoin](./MultithreadingInJava/CoreConcepts/ThreadJoin.md) – TODO
+- [ThreadSleep](./MultithreadingInJava/CoreConcepts/ThreadSleep.md) – TODO
+- [ThreadYield](./MultithreadingInJava/CoreConcepts/ThreadYield.md) – TODO
