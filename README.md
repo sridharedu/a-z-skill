@@ -1,5 +1,5 @@
 
-> I want to master <a technical or conceptual topic> deeply and efficiently — from beginner level to expert/architect understanding.
+> I want to master a technical or conceptual topic deeply and efficiently — from beginner level to expert/architect understanding.
 >
 > Please generate a **beautifully structured, interview-ready, and revision-friendly learning guide** for the topic I provide.
 > The material should feel like a high-end personal study guide or technical wiki chapter that is easy to expand over time.
