@@ -1,7 +1,7 @@
 - [Thread](./MultithreadingInJava/CoreConcepts/Thread.md) – ✅ Done
 - [Runnable](./MultithreadingInJava/CoreConcepts/Runnable.md) – ✅ Done
 - [Synchronization](./MultithreadingInJava/CoreConcepts/Synchronization.md) – ✅ Done
-- [ThreadPools](./MultithreadingInJava/Advanced/ThreadPools.md) – TODO
+- [ThreadPools](./MultithreadingInJava/Advanced/ThreadPools.md) – ✅ Done
 - [ConcurrencyUtils](./MultithreadingInJava/Advanced/ConcurrencyUtils.md) – TODO
 - [Deadlocks](./MultithreadingInJava/Pitfalls/Deadlocks.md) – TODO
 - [ThreadSafety](./MultithreadingInJava/BestPractices/ThreadSafety.md) – TODO
@@ -25,3 +25,18 @@
 - [ReadWriteLock](./MultithreadingInJava/Advanced/Locks/ReadWriteLock.md) – TODO
 - [ConditionObjects](./MultithreadingInJava/Advanced/Locks/ConditionObjects.md) – TODO
 - [FairnessInLocks](./MultithreadingInJava/Advanced/Locks/Fairness.md) – TODO
+- [ExecutorInterface](./MultithreadingInJava/Advanced/Executors/ExecutorInterface.md) – TODO
+- [ExecutorServiceInterface](./MultithreadingInJava/Advanced/Executors/ExecutorServiceInterface.md) – TODO
+- [ExecutorsFactory](./MultithreadingInJava/Advanced/Executors/ExecutorsFactory.md) – TODO
+- [ThreadPoolExecutorClass](./MultithreadingInJava/Advanced/Executors/ThreadPoolExecutorClass.md) – TODO
+- [ScheduledExecutorServiceInterface](./MultithreadingInJava/Advanced/Executors/ScheduledExecutorServiceInterface.md) – TODO
+- [FutureInterface](./MultithreadingInJava/Advanced/Futures/FutureInterface.md) – TODO
+- [ForkJoinPool](./MultithreadingInJava/Advanced/Executors/ForkJoinPool.md) – TODO
+- [FixedThreadPool](./MultithreadingInJava/Advanced/PoolTypes/FixedThreadPool.md) – TODO
+- [CachedThreadPool](./MultithreadingInJava/Advanced/PoolTypes/CachedThreadPool.md) – TODO
+- [SingleThreadExecutor](./MultithreadingInJava/Advanced/PoolTypes/SingleThreadExecutor.md) – TODO
+- [ScheduledThreadPool](./MultithreadingInJava/Advanced/PoolTypes/ScheduledThreadPool.md) – TODO
+- [ThreadPoolSizing](./MultithreadingInJava/Advanced/BestPractices/ThreadPoolSizing.md) – TODO
+- [TaskSubmission](./MultithreadingInJava/Advanced/Executors/TaskSubmission.md) – TODO
+- [ThreadPoolShutdown](./MultithreadingInJava/Advanced/Executors/ThreadPoolShutdown.md) – TODO
+- [ExceptionHandlingPools](./MultithreadingInJava/Advanced/BestPractices/ExceptionHandlingPools.md) – TODO
