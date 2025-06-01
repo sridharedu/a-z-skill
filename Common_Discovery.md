@@ -1,5 +1,5 @@
 - [Thread](./MultithreadingInJava/CoreConcepts/Thread.md) – ✅ Done
-- [Runnable](./MultithreadingInJava/CoreConcepts/Runnable.md) – TODO
+- [Runnable](./MultithreadingInJava/CoreConcepts/Runnable.md) – ✅ Done
 - [Synchronization](./MultithreadingInJava/CoreConcepts/Synchronization.md) – TODO
 - [ThreadPools](./MultithreadingInJava/Advanced/ThreadPools.md) – TODO
 - [ConcurrencyUtils](./MultithreadingInJava/Advanced/ConcurrencyUtils.md) – TODO
@@ -15,3 +15,5 @@
 - [ThreadJoin](./MultithreadingInJava/CoreConcepts/ThreadJoin.md) – TODO
 - [ThreadSleep](./MultithreadingInJava/CoreConcepts/ThreadSleep.md) – TODO
 - [ThreadYield](./MultithreadingInJava/CoreConcepts/ThreadYield.md) – TODO
+- [FunctionalInterfaceNature](./MultithreadingInJava/CoreConcepts/FunctionalInterfaceNature.md) – TODO
+- [CallableInterface](./MultithreadingInJava/Advanced/CallableInterface.md) – TODO
