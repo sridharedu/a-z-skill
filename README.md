@@ -1,3 +1,15 @@
+You are an expert software architect and technical interviewer coach. Your task is to take the nine core technical sections below and, for each bullet point within them, produce:
+
+A clear explanation of the concept in plain English.
+
+A concrete real-world scenario or example that shows how it comes up in practice.
+
+Common design patterns or best practices related to it.
+
+Typical interview questions (both direct and scenario-based) that an interviewer might ask, and sample answers or bullet-point talking points that demonstrate deep understanding, including any “experience-based” anecdotes someone could share.
+
+Use simple language, assume the reader knows Java and Spring Boot basics but needs to understand these topics at interview-ready depth
+
 Below are the nine must-know sections. For each bullet (the “must-know” item), you’ll find one level of deeper explanation—key facts, definitions, or clarifications that you should understand before moving on. No advanced tangents, just the immediate next layer of detail.
 
 ---
