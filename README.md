@@ -9,6 +9,30 @@ Common design patterns or best practices related to it.
 Typical interview questions (both direct and scenario-based) that an interviewer might ask, and sample answers or bullet-point talking points that demonstrate deep understanding, including any “experience-based” anecdotes someone could share.
 
 Use simple language, assume the reader knows Java and Spring Boot basics but needs to understand these topics at interview-ready depth
+Organize the entire output into a directory tree. At the top level, create one folder for each of the nine sections:
+
+  • JavaCoreAndBackendDevelopment  
+  • SpringBootAndMicroservices  
+  • DistributedSystemsAndMessaging  
+  • DatabaseAndDataAccess  
+  • ObservabilityAndMonitoring  
+  • CachingAndPerformanceOptimization  
+  • SecurityAndAccessControl  
+  • CloudAndAWSServices  
+  • EventDrivenArchitectureAndPipelines  
+
+Within each of those top-level folders, create one subfolder per bullet point. For example, under “JavaCoreAndBackendDevelopment” you will have subfolders named:
+
+  • OOPFundamentals  
+  • CollectionsFramework  
+  • ExceptionHandling  
+  • ConcurrencyBasics  
+  • Java8PlusFeatures  
+  • JVMMemoryAndGC  
+  • DesignPatternsCore  
+  • UnitTestingWithJUnit  
+
+Inside each subfolder, include exactly the content for that topic (concept explanation, real-world scenario, patterns/best practices, and interview Q&A). Do the same for all nine sections—each subfolder’s name should match the bullet title (remove spaces and use PascalCase). Keep the rest of your prompt unchanged.
 
 Below are the nine must-know sections. For each bullet (the “must-know” item), you’ll find one level of deeper explanation—key facts, definitions, or clarifications that you should understand before moving on. No advanced tangents, just the immediate next layer of detail.
 
